@@ -1,0 +1,21 @@
+{
+        "name" : "DarrenInwood/silverstripe-backup",
+        "description" : "Backs up assets and database, and copies them somewhere safe.",
+        "type" : "silverstripe-module",
+        "authors" : [
+                {
+                        "name" : "Darren Inwood",
+                        "email" : "darren@stripetheweb.com",
+                        "role" : "Developer"
+                },
+                {
+                        "name" : "Dylan Sweetensen",
+                        "email" : "dylan@stripetheweb.com",
+                        "role" : "Developer"
+                }
+        ],
+        "require" : {
+                "silverstripe/cms": "3.0.*",
+                "silverstripe/framework": "3.0.*"
+        }
+}
